@@ -40,37 +40,37 @@
 #### ADNet for BSD68
 ![RUNOOB 图标](./networkandresult/2BSD.png)
 
-#### ADNet for Set12
+#### 1.ADNet for Set12
 ![RUNOOB 图标](./networkandresult/3Set12.png)
 
-#### ADNet for CBSD68, Kodak24 and McMaster
+#### 2.ADNet for CBSD68, Kodak24 and McMaster
 ![RUNOOB 图标](./networkandresult/4color.png)
 
-#### ADNet for CBSD68, Kodak24 and McMaster
+#### 3.ADNet for CBSD68, Kodak24 and McMaster
 ![RUNOOB 图标](./networkandresult/5realnoisy.png)
 
-#### Running time of ADNet for a noisy image of different sizes.
+#### 4.Running time of ADNet for a noisy image of different sizes.
 ![RUNOOB 图标](./networkandresult/6ruungtime.png)
 
-#### Complexity of ADNet
+#### 5.Complexity of ADNet
 ![RUNOOB 图标](./networkandresult/7complexity.png)
 
-#### 9 real noisy images
+#### 6.9 real noisy images
 ![RUNOOB 图标](./networkandresult/8realnoisy.png)
 
-#### 9 thermodynamic images from the proposed AD
+#### 7.9 thermodynamic images from the proposed AD
 ![RUNOOB 图标](./networkandresult/9ab.png)
 
-#### Visual results of BSD68
+#### 8.Visual results of BSD68
 ![RUNOOB 图标](./networkandresult/9gray.png)
 
-#### Visual results of Set12
+#### 9.Visual results of Set12
 ![RUNOOB 图标](./networkandresult/10gray.png)
 
-#### Visual results of Kodak24
+#### 10.Visual results of Kodak24
 ![RUNOOB 图标](./networkandresult/11.png)
 
-#### Visual results of McMaster 
+#### 11.Visual results of McMaster 
 ![RUNOOB 图标](./networkandresult/12.png)
 
 ### If you cite this paper, please the following format:  
