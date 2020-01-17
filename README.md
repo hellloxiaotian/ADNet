@@ -13,8 +13,8 @@
 ## Commands
 ### Training
 ### Training datasets 
-#### The  training dataset of the gray noisy images is downloaded at https://pan.baidu.com/s/13jDZfayiM-KxLAOVWvFlUA
-#### The  training dataset of the color noisy images is downloaded at https://pan.baidu.com/s/1cx3ymsWLIT-YIiJRBza24Q
+#### The  training dataset of the gray noisy images is downloaded at https://pan.baidu.com/s/1nkY-b5_mdzliL7Y7N9JQRQ
+#### The  training dataset of the color noisy images is downloaded at https://pan.baidu.com/s/1ou2mK5JUh-K8iMu8-DMcMw
 
 ### Train ADNet-S (ADNet with known noise level)
 #### python train.py --prepropcess True --num_of_layers 17 --mode S --noiseL 25 --val_noiseL 25
