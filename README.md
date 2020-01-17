@@ -58,7 +58,7 @@
 #### 6.9 real noisy images
 ![RUNOOB 图标](./networkandresult/8realnoisy.png)
 
-#### 7.9 thermodynamic images from the proposed AD
+#### 7.9 thermodynamic images from the proposed A
 ![RUNOOB 图标](./networkandresult/9ab.png)
 
 #### 8.Visual results of BSD68
