@@ -34,6 +34,6 @@
 #### python test_c.py --num_of_layers 17 --logdir cblind --test_data Set68 --test_noiseL 15
 
 
-# Test Results
-## ADNet for BSD68
+## Test Results
+### ADNet for BSD68
 
