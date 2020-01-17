@@ -50,7 +50,7 @@
 ![RUNOOB 图标](./networkandresult/5realnoisy.png)
 
 #### Running time of ADNet for a noisy image of different sizes.
-![RUNOOB 图标](./networkandresult/6runugtime.png)
+![RUNOOB 图标](./networkandresult/6ruungtime.png)
 
 #### Complexity of ADNet
 ![RUNOOB 图标](./networkandresult/7complexity.png)
@@ -73,12 +73,12 @@
 #### Visual results of McMaster 
 ![RUNOOB 图标](./networkandresult/12.png)
 
-If you cite this paper, please the following format:
-1.Tian C, Xu Y, Li Z, et al. Attention-guided CNN for image denoising[J]. Neural Networks, 2020.
-2.@article{tian2020attention,
-  title={Attention-guided CNN for image denoising},
-  author={Tian, Chunwei and Xu, Yong and Li, Zuoyong and Zuo, Wangmeng and Fei, Lunke and Liu, Hong},
-  journal={Neural Networks},
-  year={2020},
-  publisher={Elsevier}
-}
+### If you cite this paper, please the following format:
+#### 1.Tian C, Xu Y, Li Z, et al. Attention-guided CNN for image denoising[J]. Neural Networks, 2020.
+#### 2.@article{tian2020attention,
+####  title={Attention-guided CNN for image denoising},
+####  author={Tian, Chunwei and Xu, Yong and Li, Zuoyong and Zuo, Wangmeng and Fei, Lunke and Liu, Hong},
+####  journal={Neural Networks},
+####  year={2020},
+####  publisher={Elsevier}
+####  }
