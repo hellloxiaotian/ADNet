@@ -13,7 +13,7 @@
 ## Commands
 ### Training
 ### Training datasets 
-#### The  training dataset of the gray noisy images is downloaded at https://pan.baidu.com/s/13jDZfayiM-KxLAOVWvFlUA
+#### The  training dataset of the gray noisy images is downloaded at https://pan.baidu.com/s/1nkY-b5_mdzliL7Y7N9JQRQ
 #### The  training dataset of the color noisy images is downloaded at https://pan.baidu.com/s/1cx3ymsWLIT-YIiJRBza24Q
 
 ### Train ADNet-S (ADNet with known noise level)
