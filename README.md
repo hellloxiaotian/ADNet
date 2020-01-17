@@ -6,6 +6,9 @@
 ## Requirements (Pytorch)  
 #### Pytorch 0.41
 #### Python 2.7
+#### torchvision 
+#### openCv for Python
+#### HDF5 for Python
 
 
 
