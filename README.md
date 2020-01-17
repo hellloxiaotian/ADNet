@@ -34,7 +34,7 @@
 #### python test_c.py --num_of_layers 17 --logdir cblind --test_data Set68 --test_noiseL 15
 
 ### Network architecture
-![RUNOOB 图标](./network and result/1.png)
+![RUNOOB 图标](./networkandresult/1.png)
 
 ### Test Results
 #### ADNet for BSD68
