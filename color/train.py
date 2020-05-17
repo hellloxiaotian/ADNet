@@ -85,6 +85,7 @@ def main():
             if opt.mode == 'S':
                  noise = torch.FloatTensor(img_train.size()).normal_(mean=0, std=opt.noiseL/255.)
             if opt.mode == 'B':
+                noise = torch.zeros(img_train.size())
                 stdN = np.random.uniform(noiseL_B[0], noiseL_B[1], size=noise.size()[0])
                 for n in range(noise.size()[0]):
                     sizeN = noise[0,:,:,:].size()
