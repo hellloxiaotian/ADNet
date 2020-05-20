@@ -83,8 +83,8 @@
 ####  title={Attention-guided CNN for image denoising},
 ####  author={Tian, Chunwei and Xu, Yong and Li, Zuoyong and Zuo, Wangmeng and Fei, Lunke and Liu, Hong},
 ####  journal={Neural Networks},
-### volume={124},
-### pages={177--129},
+#### volume={124},
+#### pages={177--129},
 ####  year={2020},
 ####  publisher={Elsevier}
 ####  }
