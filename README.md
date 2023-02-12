@@ -1,7 +1,9 @@
 ## Atention-guided CNN for image denoising（ADNet）by Chunwei Tian, Yong Xu, Zuoyong Li, Wangmeng Zuo, Lunke Fei and Hong Liu is publised by Neural Networks (IF:9.657), 2020 (https://www.sciencedirect.com/science/article/pii/S0893608019304241) and it is implemented by Pytorch.
 
 
-## This paper is pushed on home page of the Nueral Networks. Also, it is reported by wechat public accounts at  https://mp.weixin.qq.com/s/Debh7PZSFTBtOVxpFh9yfQ and https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=548112815452544&group_id=142181451122&user_id=28514284588581&from=timeline.
+## This paper is pushed on home page of the Nueral Networks. Also, it becomes a ESI highly cited paper. It is a contribution code of the GitHub in 2020. It is applied on a medical image company in USA.  Besides, it is reported by wechat public accounts at  https://mp.weixin.qq.com/s/Debh7PZSFTBtOVxpFh9yfQ and https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=548112815452544&group_id=142181451122&user_id=28514284588581&from=timeline.
+
+
 
 ## This paper is the first paper via deep network properties for addressing image denoising with complex background.
 
